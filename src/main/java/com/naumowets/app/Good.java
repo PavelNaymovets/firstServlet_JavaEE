@@ -16,4 +16,5 @@ public class Good {
         return this.id + " " + title + " " + cost;
     }
 
+
 }
