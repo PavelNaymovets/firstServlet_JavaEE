@@ -15,4 +15,5 @@ public class Good {
     public String toString() {
         return this.id + " " + title + " " + cost;
     }
+
 }
